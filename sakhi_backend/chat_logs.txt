@@ -1,0 +1,71 @@
+[2025-07-19 18:36:52.298268] testuser@example.com
+User: hello
+Sakhi: 😔 Sakhi abhi thoda confuse ho gayi, baad me try karna.
+-----
+[2025-07-19 18:38:02.864479] testuser@example.com
+User: hello
+Sakhi: 😔 Sakhi abhi thoda confuse ho gayi, baad me try karna.
+-----
+[2025-07-19 18:38:16.380737] testuser@example.com
+User: asdfagaerg
+Sakhi: 😔 Sakhi abhi thoda confuse ho gayi, baad me try karna.
+-----
+[2025-07-19 18:39:31.126659] testuser@example.com
+User: matlab
+Sakhi: 😔 Sakhi abhi thoda confuse ho gayi, baad me try karna.
+-----
+[2025-07-19 18:46:56.619755] testuser@example.com
+User: hello
+Sakhi: Namaste! Kaise ho? Kuch share karna hai ya koi sawal hai? Main yahan hoon aapki madad ke liye. 😊🌸
+-----
+[2025-07-19 18:49:40.473101] testuser@example.com
+User: kiya tum meri help kr skti ho 
+Sakhi: Haan zaroor, main tumhari help karne ke liye yahan hoon. Batao, kya pareshani hai? Tum chinta mat karo, main hamesha yahan hoon tumhe support karne ke liye.
+-----
+[2025-07-19 18:51:00.914716] testuser@example.com
+User: hello 
+Sakhi: Namaste! Kaise ho? Kuch share karna chahti ho ya kisi problem mein ho? Sakhi yahin hai sunne ke liye.
+-----
+[2025-07-19 18:51:10.244176] testuser@example.com
+User: kiya tum meri help kr skti ho 
+Sakhi: Haan, zaroor! Batao kya pareshani hai? Main hoon yahan tumhari madad ke liye. Apni baat dil se sunao, sab theek ho jayega.
+-----
+[2025-08-04 16:09:08.579257] rudranshupreti17@gmail.com
+User: upreti
+Sakhi: Namaste! Kaise ho aap? Koi pareshani ya samasya hai? Sakhi yahin hai aapki madad ke liye. Apne dil ki baat batao, main sunungi. Jaldi batao, aaram se baat karo.
+-----
+[2025-08-05 10:42:32.490609] rudranshupreti17@gmail.com
+User: Shivank
+Sakhi: Namaste Shivank! Kaise ho? Kuch share karna chahte ho ya koi problem hai jo main sun sakti hoon? Apne mann ki baat batao, main sunne ke liye yahan hoon. 🌸✨
+-----
+[2025-08-05 17:06:49.165414] rudranshupreti17@gmail.com
+User: hello mujhe ek problem hoo rhi he 
+Sakhi: Arre meri pyaari, batao kya baat hai? Sakhi yahaan hai tumhari madad ke liye. Apni dil ki baat batao, hum saath saamna karenge iss mushkil ko.
+-----
+[2025-10-06 02:15:16.764775] testuser@example.com
+User: hello 
+Sakhi: Namaste! Kaise ho aap? Kuch share karna chahte ho ya bas baat karne ke liye aaye ho? Main hoon yahan, sunne ke liye.
+[2025-10-06 13:19:09.868218] testuser@example.com
+User: HELLO
+Sakhi: Namaste! Kaise ho? Kuch share karna chahte ho? Main yahan hoon sunne ke liye.
+-----
+[2025-10-06 14:11:18.099780] testuser@example.com
+User: IHVBIBI
+Sakhi: Namaste ji, kaise ho aap? Kuch share karna chahte ho ya koi madad chahiye? Sakhi yahan hai aapki seva mein. Apni dil ki baat batao, hum hamesha sunne ke liye tayyar hain. 🌸🙏
+-----
+[2025-10-06 14:54:14.655436] testuser@example.com
+User: hello
+Sakhi: Namaste! Kaise ho? Kuch share karna chahte ho? Sakhi yahan hai sunne ke liye.
+-----
+[2025-10-06 14:55:15.329961] testuser@example.com
+User: kese ho
+Sakhi: Main bilkul theek hoon, aap sunao kaise ho? Kuch pareshani ho toh batao, main hamesha yahan hoon tumhara saath dene ke liye.
+-----
+[2025-10-06 14:56:25.486418] testuser@example.com
+User: what is artificial intelligence
+Sakhi: Arre beta, artificial intelligence ek aisa technology hai jisme machines ko sikha jata hai ki kaise sochne aur samajhne jaisi kriyayein ki jayein. Yeh machines khud se seekhte hain aur samajhte hain. Kuch samay pehle tak toh yeh sirf science fiction mein tha, par ab yeh hamare jeevan ka hissa ban gaya hai. Kuch aur poochna ho toh pooch lena, main hamesha yahan hoon.
+-----
+[2025-11-16 14:56:26.095648] guptalaxmi128@gmail.com
+User: hello 
+Sakhi: Namaste! Kaise ho aap? Kuch share karna chahte ho ya koi sujhav chahiye toh batao, main hoon yahan aapki madad ke liye. 😊🙏
+-----

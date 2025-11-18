@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "d36fae37401bc799",
+    "type": "split",
+    "children": [
+      {
+        "id": "032b3b8b3fd1a357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096b32e650cc97d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Overview"
+            }
+          },
+          {
+            "id": "11b1ec55dac77392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features"
+            }
+          },
+          {
+            "id": "439fc4a843cf11bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User Personas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Personas"
+            }
+          },
+          {
+            "id": "b968569e51cf5a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversation Flows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conversation Flows"
+            }
+          },
+          {
+            "id": "e58d7f52c397b347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Stack"
+            }
+          },
+          {
+            "id": "bc3045c88dfb7c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Execution Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Execution Plan"
+            }
+          },
+          {
+            "id": "2ed40b376c13c053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing Plan"
+            }
+          },
+          {
+            "id": "b4a4973d65930234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Future Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Future Roadmap"
+            }
+          },
+          {
+            "id": "1debe56e3dfb5354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woman chatbot/Sprints/sprints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sprints"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "622f252b7e3e4a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "55bb187514dc0057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc3f70b8f081879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "265fa39dd3563989",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79208eb9d2eb7cf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dbfbac715d8f0d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a162becb150a22e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f7d9c6a12e19f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Woman chatbot/Sprints/sprints.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sprints"
+            }
+          },
+          {
+            "id": "7f4e5798d4eddf79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Woman chatbot/Sprints/sprints.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sprints"
+            }
+          },
+          {
+            "id": "1adf0501e07b793e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "477570fbd68826f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Woman chatbot/Sprints/sprints.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sprints"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1debe56e3dfb5354",
+  "lastOpenFiles": [
+    "Future Roadmap.md",
+    "Woman chatbot/Sprints/sprints.md",
+    "Woman chatbot/Sprints",
+    "Woman chatbot/Assets",
+    "Testing Plan.md",
+    "Execution Plan.md",
+    "Tech Stack.md",
+    "Conversation Flows.md",
+    "User Personas.md",
+    "Features.md",
+    "Project Overview.md",
+    "Woman chatbot",
+    "Welcome.md"
+  ]
+}
