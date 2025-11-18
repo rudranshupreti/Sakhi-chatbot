@@ -18,7 +18,6 @@ def create_conversation(user_id: str, title: str):
                 "id": conv_id,
                 "user_id": user_id,
                 "title": title,
-                # "updated_at": datetime.utcnow().isoformat()   # remove or convert
             }
         )
         .execute()
@@ -32,7 +31,7 @@ def get_conversations(user_id: str):
         supabase.table("conversations")
         .select("*")
         .eq("user_id", user_id)
-        .order("updated_at", desc=True)
+        .order("updated_at", desc=True)  # latest first
         .execute()
     )
     return result.data
@@ -59,7 +58,6 @@ def add_message(conv_id: str, content: str, sender: str):
                 "conversation_id": conv_id,
                 "content": content,
                 "sender": sender,
-                # "created_at": datetime.utcnow().isoformat()  # remove or convert
             }
         )
         .execute()
@@ -78,7 +76,7 @@ def get_messages(conv_id: str):
         supabase.table("messages")
         .select("*")
         .eq("conversation_id", conv_id)
-        .order("created_at", asc=True)
+        .order("created_at", desc=False)  # ascending order (oldest → newest)
         .execute()
     )
 
