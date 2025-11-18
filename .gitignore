@@ -1,8 +1,6 @@
-.env
-*/.env
-.env
-*/.env
-sakhi_backend/.env
-Sakhi_frontend/.env
 sakhi_backend\.env
 Sakhi_frontend\client\.env
+.env
+*/.env
+.env
+*/.env
